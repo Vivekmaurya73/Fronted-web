@@ -1,0 +1,72 @@
+ img{
+  width: 100%;
+  height: 100vh;
+  opacity: inherit;
+}
+
+.Nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  position: absolute;
+  top: 80px;
+  width: 100%;
+}
+.middle-text{
+  top: 35%;
+}
+
+
+
+.Mid.container {
+  left: 35%;
+  position: absolute;
+  text-align: center;
+  top: 35%;
+}
+
+.coming-text{
+  font-size: 80px;
+    font-weight: 800;
+}
+.time-text{
+  color: #ff0;
+    font-weight: 500;
+}
+.container{
+  color: white;
+  text-align: center;
+}
+
+.bottom-split{
+  color: white;
+    bottom: 50px;
+    width: 100%;
+    position: absolute;
+    display: flex;
+  
+    justify-content: space-around;
+    align-items: center;
+}
+.time{
+  display: flex;
+  gap: 27px;
+  justify-content: space-between;
+  line-height: 10px;
+  margin-left: 40px;
+}
+
+.alive-text{
+  font-size: 35px;
+    font-weight: 700;
+}
+
+.downloadbtn{
+  background-color: blue;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    height: 55px;
+    width: 150px;
+}
